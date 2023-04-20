@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Montserrat:wght@100&family=Poppins:ital,wght@1,300&display=swap');
+
+.form-group{
+   text-align: center;
+}
+
+.App
+{
+   background-image: url("./Assets/Images/infiminuteImgs/infinibackground.jpg");
+  height: 100vh;
+}
+
+
+
